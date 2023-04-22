@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Я фронтенд разработчик, интересуюсь React, React hooks, Javascript, стандартами ES2017, люблю использовать lodash, axios в проектах,
 делаю SPA на React
-Сейчас я работаю в АО "БАНК СГБ" в качестве фронтенд разработчика.
+
 
 Что умею:
 - работать с React для создания single page applications (SPA)
