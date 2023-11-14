@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 </div>
 
 
+
 Что умею:
 - работать с React для создания single page applications (SPA)
 - работать с веб-сокетами, для создания real-time приложений.
