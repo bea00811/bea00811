@@ -55,4 +55,4 @@ Here are some ideas to get you started:
 - БЭМ при верстке
 - Figma, Photoshop
 
-
+https://credits-test.lockobank.ru/docs?token=9d06f7d8-e500-412d-97e6-044d9c0c2ad5&applicationId=577524
