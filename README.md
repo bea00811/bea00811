@@ -56,3 +56,4 @@ Here are some ideas to get you started:
 - Figma, Photoshop
 
 https://credits-test.lockobank.ru/docs?token=9d06f7d8-e500-412d-97e6-044d9c0c2ad5&applicationId=577524
+https://codesandbox.io/p/sandbox/tasks-for-interview-with-answers-js-ts-react-pxx57m?file=%2Fsrc%2FTypescript%2F1%2Findex.js%3A4%2C24
