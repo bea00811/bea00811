@@ -54,4 +54,5 @@ Here are some ideas to get you started:
 - webpack
 - БЭМ при верстке
 - Figma, Photoshop
-
+https://code.yandex-team.ru/416995ec-5c5c-4ee6-a06b-3c7b7633c24c
+https://us05web.zoom.us/j/89205582202?pwd=Zgxks33qB4agjakfJJqzzQduaDJQG3.1
