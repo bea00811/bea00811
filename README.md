@@ -58,3 +58,5 @@ https://code.yandex-team.ru/416995ec-5c5c-4ee6-a06b-3c7b7633c24c
 https://us05web.zoom.us/j/89205582202?pwd=Zgxks33qB4agjakfJJqzzQduaDJQG3.1
 
 https://meet.google.com/tqf-epgz-igk
+
+https://code.yandex-team.ru/a043c0b2-fd22-4aad-94d0-106ec5e22d7d
